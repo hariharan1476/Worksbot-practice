@@ -5,3 +5,5 @@ Python Basic Topics - Worksbot Practice
 4. Lists
 5. Loops
 6. Conditional Statements
+   
+six problems in functions
