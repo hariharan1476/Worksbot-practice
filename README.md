@@ -9,3 +9,16 @@ Python Basic Topics - Worksbot Practice
 8. class & objects
 9. modules
 10. try & expection
+
+## File Handling
+
+This folder contains basic Python file handling programs.
+
+Topics Covered:
+
+- Writing to a file
+- Reading a file
+- Appending data
+- Copying file contents
+- Counting words and characters
+- Exception handling using try-except
